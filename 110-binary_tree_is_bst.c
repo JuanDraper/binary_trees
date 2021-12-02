@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-/*
+/**
  *check - checks if nodes ar less or higher
  *@tree: subtree to ckeck
  *@n: value of node
